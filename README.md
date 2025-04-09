@@ -19,6 +19,15 @@ This project fetches weather data for multiple cities using OpenWeatherMap's API
 ## Project Outputs
 ### Console Output
 Example console output when the script runs:
+<p align="center">
+<img src="https://github.com/Deepthi3245/Weather-Data--Analysis/blob/main/Outputs/output.png?raw=true" >
+</p>
+
+### Saved Chart
+A visualization is saved as temperature_chart.png: Temperature Chart Example
+<p align="center">
+<img src="https://github.com/Deepthi3245/Weather-Data--Analysis/blob/d21b28bb822607178022c14f2f68ad40ebd72dac/Outputs/temperature_chart.png" >
+</p>
 
 ## Installation
 Step 1. Clone the repository:
