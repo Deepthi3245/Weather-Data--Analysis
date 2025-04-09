@@ -17,7 +17,24 @@ This project fetches weather data for multiple cities using OpenWeatherMap's API
 - **Task Scheduler**: Automation (Windows).
 
 ## Installation
-1. Clone the repository:
+Step 1. Clone the repository:
    ```bash
    git clone https://github.com/<Deepthi3245>/Weather-Data-Project.git
    cd Weather-Data-Project
+
+Step 2: Clone the repository:
+Install the required Python libraries using pip:
+pip install -r requirements.txt
+
+Step 3: Obtain an API Key
+- Sign up at OpenWeatherMap.
+- Generate an API key and replace the placeholder in weather_project.py:API_KEY = "YOUR_API_KEY"
+
+Step 4: Run the Python Script
+Run the script to fetch and process weather data:
+python weather_project.py
+
+Step 5: Automate the Script
+Set up Windows Task Scheduler to run the script automatically at desired intervals.
+
+
