@@ -5,7 +5,7 @@ import sqlite3
 import matplotlib.pyplot as plt
 
 # Step 1: Extract - Fetch weather data from the API
-API_KEY = "76bd13be8af9514443a23ba2bbaec06d"
+API_KEY = "Your API Key"
 cities = ["Denton,US", "Austin,US", "Dallas,US", "Houston,US"]
 all_weather_data = []
 
